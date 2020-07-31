@@ -1,0 +1,61 @@
+F:\jahanzaibshahid07-drivertracking-cc9a6315b859\corejobref\bin\Debug\netcoreapp2.1\corejobref.deps.json
+F:\jahanzaibshahid07-drivertracking-cc9a6315b859\corejobref\bin\Debug\netcoreapp2.1\corejobref.runtimeconfig.json
+F:\jahanzaibshahid07-drivertracking-cc9a6315b859\corejobref\bin\Debug\netcoreapp2.1\corejobref.runtimeconfig.dev.json
+F:\jahanzaibshahid07-drivertracking-cc9a6315b859\corejobref\bin\Debug\netcoreapp2.1\corejobref.dll
+F:\jahanzaibshahid07-drivertracking-cc9a6315b859\corejobref\bin\Debug\netcoreapp2.1\corejobref.pdb
+F:\jahanzaibshahid07-drivertracking-cc9a6315b859\corejobref\bin\Debug\netcoreapp2.1\corejobref.Views.dll
+F:\jahanzaibshahid07-drivertracking-cc9a6315b859\corejobref\bin\Debug\netcoreapp2.1\corejobref.Views.pdb
+F:\jahanzaibshahid07-drivertracking-cc9a6315b859\corejobref\obj\Debug\netcoreapp2.1\corejobref.csproj.CoreCompileInputs.cache
+F:\jahanzaibshahid07-drivertracking-cc9a6315b859\corejobref\obj\Debug\netcoreapp2.1\corejobref.RazorAssemblyInfo.cache
+F:\jahanzaibshahid07-drivertracking-cc9a6315b859\corejobref\obj\Debug\netcoreapp2.1\corejobref.RazorAssemblyInfo.cs
+F:\jahanzaibshahid07-drivertracking-cc9a6315b859\corejobref\obj\Debug\netcoreapp2.1\corejobref.AssemblyInfoInputs.cache
+F:\jahanzaibshahid07-drivertracking-cc9a6315b859\corejobref\obj\Debug\netcoreapp2.1\corejobref.AssemblyInfo.cs
+F:\jahanzaibshahid07-drivertracking-cc9a6315b859\corejobref\obj\Debug\netcoreapp2.1\corejobref.TagHelpers.input.cache
+F:\jahanzaibshahid07-drivertracking-cc9a6315b859\corejobref\obj\Debug\netcoreapp2.1\corejobref.TagHelpers.output.cache
+F:\jahanzaibshahid07-drivertracking-cc9a6315b859\corejobref\obj\Debug\netcoreapp2.1\corejobref.RazorCoreGenerate.cache
+F:\jahanzaibshahid07-drivertracking-cc9a6315b859\corejobref\obj\Debug\netcoreapp2.1\Razor\Views\Home\Error.g.cshtml.cs
+F:\jahanzaibshahid07-drivertracking-cc9a6315b859\corejobref\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+F:\jahanzaibshahid07-drivertracking-cc9a6315b859\corejobref\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+F:\jahanzaibshahid07-drivertracking-cc9a6315b859\corejobref\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+F:\jahanzaibshahid07-drivertracking-cc9a6315b859\corejobref\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+F:\jahanzaibshahid07-drivertracking-cc9a6315b859\corejobref\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+F:\jahanzaibshahid07-drivertracking-cc9a6315b859\corejobref\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+F:\jahanzaibshahid07-drivertracking-cc9a6315b859\corejobref\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+F:\jahanzaibshahid07-drivertracking-cc9a6315b859\corejobref\obj\Debug\netcoreapp2.1\corejobref.RazorTargetAssemblyInfo.cache
+F:\jahanzaibshahid07-drivertracking-cc9a6315b859\corejobref\obj\Debug\netcoreapp2.1\corejobref.RazorTargetAssemblyInfo.cs
+F:\jahanzaibshahid07-drivertracking-cc9a6315b859\corejobref\obj\Debug\netcoreapp2.1\corejobref.Views.pdb
+F:\jahanzaibshahid07-drivertracking-cc9a6315b859\corejobref\obj\Debug\netcoreapp2.1\corejobref.dll
+F:\jahanzaibshahid07-drivertracking-cc9a6315b859\corejobref\obj\Debug\netcoreapp2.1\corejobref.pdb
+F:\jahanzaibshahid07-drivertracking-cc9a6315b859\corejobref\obj\Debug\netcoreapp2.1\corejobref.csproj.CopyComplete
+F:\jahanzaibshahid07-drivertracking-cc9a6315b859\corejobref\obj\Debug\netcoreapp2.1\corejobref.csprojAssemblyReference.cache
+C:\Users\zeej laptop\Source\Repos\corejobref\corejobref\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\zeej laptop\Source\Repos\corejobref\corejobref\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\zeej laptop\Source\Repos\corejobref\corejobref\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\zeej laptop\Source\Repos\corejobref\corejobref\bin\Debug\netcoreapp2.1\corejobref.deps.json
+C:\Users\zeej laptop\Source\Repos\corejobref\corejobref\bin\Debug\netcoreapp2.1\corejobref.runtimeconfig.json
+C:\Users\zeej laptop\Source\Repos\corejobref\corejobref\bin\Debug\netcoreapp2.1\corejobref.runtimeconfig.dev.json
+C:\Users\zeej laptop\Source\Repos\corejobref\corejobref\bin\Debug\netcoreapp2.1\corejobref.dll
+C:\Users\zeej laptop\Source\Repos\corejobref\corejobref\bin\Debug\netcoreapp2.1\corejobref.pdb
+C:\Users\zeej laptop\Source\Repos\corejobref\corejobref\bin\Debug\netcoreapp2.1\corejobref.Views.dll
+C:\Users\zeej laptop\Source\Repos\corejobref\corejobref\bin\Debug\netcoreapp2.1\corejobref.Views.pdb
+C:\Users\zeej laptop\Source\Repos\corejobref\corejobref\obj\Debug\netcoreapp2.1\corejobref.RazorAssemblyInfo.cache
+C:\Users\zeej laptop\Source\Repos\corejobref\corejobref\obj\Debug\netcoreapp2.1\corejobref.RazorAssemblyInfo.cs
+C:\Users\zeej laptop\Source\Repos\corejobref\corejobref\obj\Debug\netcoreapp2.1\corejobref.AssemblyInfoInputs.cache
+C:\Users\zeej laptop\Source\Repos\corejobref\corejobref\obj\Debug\netcoreapp2.1\corejobref.AssemblyInfo.cs
+C:\Users\zeej laptop\Source\Repos\corejobref\corejobref\obj\Debug\netcoreapp2.1\corejobref.TagHelpers.input.cache
+C:\Users\zeej laptop\Source\Repos\corejobref\corejobref\obj\Debug\netcoreapp2.1\corejobref.TagHelpers.output.cache
+C:\Users\zeej laptop\Source\Repos\corejobref\corejobref\obj\Debug\netcoreapp2.1\corejobref.RazorCoreGenerate.cache
+C:\Users\zeej laptop\Source\Repos\corejobref\corejobref\obj\Debug\netcoreapp2.1\Razor\Views\Home\Error.cshtml.g.cs
+C:\Users\zeej laptop\Source\Repos\corejobref\corejobref\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\zeej laptop\Source\Repos\corejobref\corejobref\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\zeej laptop\Source\Repos\corejobref\corejobref\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\zeej laptop\Source\Repos\corejobref\corejobref\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\zeej laptop\Source\Repos\corejobref\corejobref\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\zeej laptop\Source\Repos\corejobref\corejobref\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\zeej laptop\Source\Repos\corejobref\corejobref\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\zeej laptop\Source\Repos\corejobref\corejobref\obj\Debug\netcoreapp2.1\corejobref.RazorTargetAssemblyInfo.cache
+C:\Users\zeej laptop\Source\Repos\corejobref\corejobref\obj\Debug\netcoreapp2.1\corejobref.RazorTargetAssemblyInfo.cs
+C:\Users\zeej laptop\Source\Repos\corejobref\corejobref\obj\Debug\netcoreapp2.1\corejobref.Views.pdb
+C:\Users\zeej laptop\Source\Repos\corejobref\corejobref\obj\Debug\netcoreapp2.1\corejobref.dll
+C:\Users\zeej laptop\Source\Repos\corejobref\corejobref\obj\Debug\netcoreapp2.1\corejobref.pdb
+C:\Users\zeej laptop\Source\Repos\corejobref\corejobref\obj\Debug\netcoreapp2.1\corejobref.csproj.CopyComplete
